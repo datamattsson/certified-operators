@@ -4,7 +4,7 @@ metadata:
   name: hpe-csi-operator.v2.4.1
   namespace: placeholder
   annotations:
-    operatorhub.io/ui-metadata-max-k8s-version: "1.28"
+    operatorhub.io/ui-metadata-max-k8s-version: "1.29"
     olm.skipRange: ">=1.0.0 <2.4.1"
     alm-examples: >-
       [
